@@ -1,1 +1,1 @@
-Git.com
+Git-scm.com
